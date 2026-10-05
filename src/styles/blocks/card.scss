@@ -19,7 +19,7 @@
 
   &__title {
     width: 166px;
-    margin: 40px 17px 0;
+    margin: 40px 16px 0;
 
     font-size: 12px;
     font-weight: 500;
@@ -29,7 +29,7 @@
 
   &__cod {
     width: 98px;
-    margin: 4px 0 0 17px;
+    margin: 4px 0 0 16px;
     white-space: nowrap;
 
     font-size: 10px;
@@ -44,7 +44,7 @@
     align-items: center;
     width: 166px;
     height: 16px;
-    margin: 16px 0 0 17px;
+    margin: 16px 0 0 16px;
   }
 
   &__reviews {
@@ -60,7 +60,7 @@
     align-items: center;
 
     width: 166px;
-    margin: 24px 0 0 17px;
+    margin: 24px 0 0 16px;
   }
   &__price-label {
     font-size: 12px;
@@ -83,7 +83,7 @@
     box-sizing: border-box;
     width: 166px;
     height: 40px;
-    margin: 16px 0 0 17px;
+    margin: 16px 0 0 16px;
 
     border: 1px solid vars.$accent-color;
     border-radius: 5px;
